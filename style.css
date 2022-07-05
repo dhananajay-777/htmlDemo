@@ -1,0 +1,28 @@
+table{
+    border: 5px dashed grey;
+    text-align: center;
+    padding: 10px;
+}
+th{
+    border: 2px solid green;
+    text-align: center;
+    padding: 10px;
+}
+td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
+body{   
+    background-image: linear-gradient(rgba(126, 61, 151, 0.986),rgb(78, 202, 155));
+    padding: 20%;
+}
+.form-body{
+    background-image: linear-gradient(rgb(189, 166, 166),rgb(185, 190, 151));
+    padding: 50px;
+    border-radius: 10px;
+    align-content: center;
+}
+input{
+    width: fit-content;
+}
